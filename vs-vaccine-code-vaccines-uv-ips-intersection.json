@@ -1,0 +1,9 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-30",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-30",
+  "name" : "IntersectionVaccineAdministeredValueSetAndVaccinesUvIps",
+  "title" : "Intersection of Vaccine Administered Value Set And Vaccines - IPS",
+  "status" : "active",
+  "date" : "2022-11-29T15:55:48-05:00"
+}

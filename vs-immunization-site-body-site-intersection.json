@@ -1,0 +1,9 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-33",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-33",
+  "name" : "IntersectionCodesForImmunizationSiteOfAdministrationAndSNOMEDCTBodyStructures",
+  "title" : "Intersection of Codes for Immunization Site of Administration And SNOMED CT Body Structures",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:48-05:00"
+}

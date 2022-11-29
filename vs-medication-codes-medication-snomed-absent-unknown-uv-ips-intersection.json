@@ -1,0 +1,5001 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-48",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-48",
+  "name" : "IntersectionSNOMEDCTMedicationCodesAndMedicationSnomedCodesAbsentUnknown",
+  "title" : "Intersection of SNOMED CT Medication Codes And Medications - SNOMED CT + Absent/Unknown (IPS)",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:49-05:00",
+  "expansion" : {
+    "contains" : [{
+      "system" : "http://snomed.info/sct",
+      "code" : "169008",
+      "display" : "Product containing hypothalamic releasing factor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "211009",
+      "display" : "Product containing norethandrolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "302007",
+      "display" : "Product containing spiramycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "439007",
+      "display" : "Therapeutic radioisotope"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "449005",
+      "display" : "Product containing procaine benzylpenicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "544002",
+      "display" : "Product containing melphalan (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "796001",
+      "display" : "Product containing digoxin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "847003",
+      "display" : "Product containing dextrothyroxine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "922004",
+      "display" : "Product containing pralidoxime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1039008",
+      "display" : "Product containing mercaptopurine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1148001",
+      "display" : "Product containing ticarcillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1182007",
+      "display" : "Hypotensive agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1206000",
+      "display" : "Product containing alpha-2 adrenergic receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1222004",
+      "display" : "Product containing metronidazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1389007",
+      "display" : "Product containing beclometasone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1434005",
+      "display" : "Product containing calamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1528001",
+      "display" : "Product containing folinic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1594006",
+      "display" : "Product containing azatadine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1758005",
+      "display" : "Product containing motilin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1842003",
+      "display" : "Product containing diphemanil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1878008",
+      "display" : "Product containing hexachlorophene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1887004",
+      "display" : "Product containing permethrin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "1982006",
+      "display" : "Bacitracin-containing product in ocular dose form"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2016004",
+      "display" : "Product containing dextromethorphan (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2183004",
+      "display" : "Product containing tetryzoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2190009",
+      "display" : "Product containing trihexyphenidyl (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2497003",
+      "display" : "Product containing hexetidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2571007",
+      "display" : "Product containing busulfan (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2596005",
+      "display" : "Product containing lincomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2679000",
+      "display" : "Product containing oxandrolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "2949005",
+      "display" : "Diagnostic aid"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "3037004",
+      "display" : "Product containing flumetasone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "3127006",
+      "display" : "Product containing fluorouracil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "3334000",
+      "display" : "Product containing cefotaxime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "3814009",
+      "display" : "Product containing propylthiouracil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "3822002",
+      "display" : "Product containing succinylcholine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4126008",
+      "display" : "Product containing fluprednisolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4194004",
+      "display" : "Product containing mazindol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4219002",
+      "display" : "Product containing penicillamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4220008",
+      "display" : "Product containing tolazoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4382004",
+      "display" : "Centrally acting hypotensive agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4704002",
+      "display" : "Product containing iothiouracil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4865009",
+      "display" : "Product containing prolactin releasing factor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4937008",
+      "display" : "Product containing cefaclor (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5067008",
+      "display" : "Antithyroid agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5478006",
+      "display" : "Product containing trifluperidol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5606003",
+      "display" : "Product containing dexamethasone in nasal dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5720001",
+      "display" : "Product containing Latrodectus mactans antivenom (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5737008",
+      "display" : "Product containing demeclocycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5776009",
+      "display" : "Medicinal product acting as anesthetic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5786005",
+      "display" : "Product containing chlorothiazide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5797005",
+      "display" : "Product containing clotrimazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5924003",
+      "display" : "Product containing isosorbide dinitrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "5975000",
+      "display" : "Product containing niclosamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6028009",
+      "display" : "Product containing triamcinolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6067003",
+      "display" : "Product containing orciprenaline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6071000",
+      "display" : "Product containing coal tar (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6102009",
+      "display" : "Product containing baclofen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6116004",
+      "display" : "Product containing oxymetholone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6232005",
+      "display" : "Product containing naphazoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6247001",
+      "display" : "Product containing folic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6259002",
+      "display" : "Product containing precisely hydrogen peroxide 30 milligram/1 milliliter conventional release cutaneous solution (clinical drug)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6369005",
+      "display" : "Penicillin antibacterial agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6425004",
+      "display" : "Product containing histamine receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6526001",
+      "display" : "Product containing nalorphine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6625006",
+      "display" : "Product containing zinc sulfate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6716006",
+      "display" : "Abortifacient agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6960003",
+      "display" : "Product containing polymyxin B (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6985007",
+      "display" : "Product containing opium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7092007",
+      "display" : "Product containing metoprolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7140000",
+      "display" : "Radiographic contrast media"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7168001",
+      "display" : "Product containing magnesium carbonate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7235000",
+      "display" : "Product containing ethylenediamine derivative and histamine receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7292004",
+      "display" : "Product containing indocyanine green (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7336002",
+      "display" : "Product containing trazodone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7561000",
+      "display" : "Product containing dexamethasone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7577004",
+      "display" : "Product containing ciprofloxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7624002",
+      "display" : "Product containing sodium perborate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7836006",
+      "display" : "Expectorant agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7947003",
+      "display" : "Product containing aspirin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "7959004",
+      "display" : "Product containing teniposide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8028001",
+      "display" : "Product containing butacaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8109005",
+      "display" : "Product containing alimemazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8163008",
+      "display" : "Product containing nitroprusside (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8348002",
+      "display" : "Product containing cyclopentolate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8372007",
+      "display" : "Product containing promethazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8416000",
+      "display" : "Product containing dicloxacillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8658008",
+      "display" : "Product containing human serum albumin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8661009",
+      "display" : "Replacement preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8692006",
+      "display" : "Product containing metamfetamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "8696009",
+      "display" : "Medicinal product acting as antispasmodic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9190005",
+      "display" : "Product containing tropicamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9268004",
+      "display" : "Product containing secbutabarbital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9500005",
+      "display" : "Product containing phenelzine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9542007",
+      "display" : "Hepatitis B surface antigen immunoglobulin-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9690006",
+      "display" : "Product containing nikethamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9745007",
+      "display" : "Product containing sucrose (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9778000",
+      "display" : "Cytomegalovirus antibody-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "9944001",
+      "display" : "Product containing chlorphenamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10099000",
+      "display" : "Product containing ketoprofen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10135005",
+      "display" : "Product containing Cinchona alkaloid (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10312003",
+      "display" : "Product containing prednisone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10422008",
+      "display" : "Product containing pentaerithrityl tetranitrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10504007",
+      "display" : "Product containing doxycycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10515002",
+      "display" : "Product containing lututrin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10555000",
+      "display" : "Product containing tocainide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10632007",
+      "display" : "Multivitamin preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10712001",
+      "display" : "Product containing glucagon (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10756001",
+      "display" : "Product containing haloperidol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "10784006",
+      "display" : "Medicinal product acting as antipsychotic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11402001",
+      "display" : "Product containing enzyme (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11430001",
+      "display" : "Medicinal product containing tetracyclic compound and acting as antidepressant agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11563006",
+      "display" : "Product containing vitamin D and/or vitamin D derivative (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11719000",
+      "display" : "Product containing cetylpyridinium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11783005",
+      "display" : "Medicinal product acting as stool softener (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11796006",
+      "display" : "Product containing methysergide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11841005",
+      "display" : "Product containing doxepin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11847009",
+      "display" : "Product containing naproxen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "11959009",
+      "display" : "Product containing procainamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12096000",
+      "display" : "Product containing nystatin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12236006",
+      "display" : "Product containing pancreatin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12289007",
+      "display" : "Whole blood preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12335007",
+      "display" : "Diatrizoate-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12369008",
+      "display" : "Product containing oxytocin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12425002",
+      "display" : "Human white blood cell preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12436009",
+      "display" : "Product containing vinblastine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12495006",
+      "display" : "Product containing magnesium citrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12512008",
+      "display" : "Product containing triamterene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12559001",
+      "display" : "Product containing emetine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "12839006",
+      "display" : "Product containing estradiol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13132007",
+      "display" : "Product containing dextran (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13252002",
+      "display" : "Product containing salsalate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13414000",
+      "display" : "Product containing cefadroxil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13432000",
+      "display" : "Product containing nortriptyline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13512003",
+      "display" : "Product containing minocycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13525006",
+      "display" : "Product containing acetylcholine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13565005",
+      "display" : "Product containing bisacodyl (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13592004",
+      "display" : "Product containing pyrazinamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13664004",
+      "display" : "Product containing dimercaprol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13790009",
+      "display" : "Product containing iron in oral dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13800009",
+      "display" : "Product containing naftifine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13813003",
+      "display" : "Product containing biotin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13929005",
+      "display" : "Product containing spironolactone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13936006",
+      "display" : "Product containing butorphanol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "13965000",
+      "display" : "Product containing valproic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14103001",
+      "display" : "Product containing opioid receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14170004",
+      "display" : "Product containing capreomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14601000",
+      "display" : "Product containing acetylcholine receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14706000",
+      "display" : "Phenethicillin-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14728000",
+      "display" : "Product containing chloroquine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14814001",
+      "display" : "Product containing trimethobenzamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14816004",
+      "display" : "Product containing cocaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "15222008",
+      "display" : "Product containing enalapril (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "15375005",
+      "display" : "Product containing phenanthrene derivative (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "15383004",
+      "display" : "Product containing levodopa (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "15432003",
+      "display" : "Product containing ethinylestradiol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "15772006",
+      "display" : "Product containing beta-1 adrenergic receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "15857002",
+      "display" : "Ethanolamine derivative histamine receptor antagonist product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16031005",
+      "display" : "Product containing dexchlorpheniramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16037009",
+      "display" : "Product containing terfenadine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16047007",
+      "display" : "Product containing benzodiazepine (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16131008",
+      "display" : "Product containing antivenom (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16403005",
+      "display" : "Non-steroidal anti-inflammatory agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16602005",
+      "display" : "Product containing hydrocortisone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16787005",
+      "display" : "Product containing Streptococcus equisimilis antiserum and Streptococcus suis antiserum (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16791000",
+      "display" : "Product containing cefradine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16832004",
+      "display" : "Product containing conjugated estrogen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16858004",
+      "display" : "Product containing urea (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16867004",
+      "display" : "Product containing sulfathiazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16970001",
+      "display" : "Product containing proguanil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "16977003",
+      "display" : "Product containing lithium carbonate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "17308007",
+      "display" : "Product containing dapsone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "17554004",
+      "display" : "Product containing paramethasone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "17558001",
+      "display" : "Product containing corn oil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "17600005",
+      "display" : "Diagnostic radioisotope"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "17805003",
+      "display" : "Product containing lithium citrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "17859000",
+      "display" : "Product containing polyvalent crotalidae antivenom (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "17893001",
+      "display" : "Skeletal muscle relaxant"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18002004",
+      "display" : "Product containing auranofin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18125000",
+      "display" : "Product containing fluocinonide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18335001",
+      "display" : "Product containing plicamycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18340009",
+      "display" : "Product containing oxychlorosene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18381001",
+      "display" : "Product containing pindolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18548003",
+      "display" : "Product containing methylphenidate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18679008",
+      "display" : "Product containing potassium exchange resin (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18811003",
+      "display" : "Product containing asparaginase (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18914005",
+      "display" : "Product containing hydroflumethiazide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18952006",
+      "display" : "Product containing econazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19194001",
+      "display" : "Product containing didanosine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19225000",
+      "display" : "Product containing lorazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19232009",
+      "display" : "Product containing prilocaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19261005",
+      "display" : "Product containing sulfinpyrazone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19403009",
+      "display" : "Product containing flurazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19405002",
+      "display" : "Product containing netilmicin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19581007",
+      "display" : "Parasympathomimetic agent-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19583005",
+      "display" : "Product containing diclofenamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19630009",
+      "display" : "Product containing silver sulfadiazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19768003",
+      "display" : "Product containing alkylating agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "19841008",
+      "display" : "Product containing ceftriaxone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "20091003",
+      "display" : "Product containing somatotropin releasing factor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "20201001",
+      "display" : "Product containing nafoxidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "20237006",
+      "display" : "Product containing dihydrotachysterol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "20320002",
+      "display" : "Product containing hydrocodone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "20577002",
+      "display" : "Product containing choriogonadotropin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "20865003",
+      "display" : "Product containing diflunisal (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "21069002",
+      "display" : "Lipotropic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "21159006",
+      "display" : "Product containing pargyline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "21691008",
+      "display" : "Product containing magnesium trisilicate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "21701005",
+      "display" : "Product containing cromoglicic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "21767006",
+      "display" : "Product containing iron dextran (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "21986005",
+      "display" : "Product containing Erysipelothrix rhusiopathiae antiserum (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22091006",
+      "display" : "Product containing hormone (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22198003",
+      "display" : "Product containing metolazone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22274004",
+      "display" : "Product containing methandriol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22474002",
+      "display" : "Product containing aldosterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22587006",
+      "display" : "Product containing depolarizing neuromuscular blocker (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22657006",
+      "display" : "Product containing calcitonin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22672005",
+      "display" : "Product containing amfetamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22696000",
+      "display" : "Product containing hydralazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "22969001",
+      "display" : "Product containing oxytetracycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23079006",
+      "display" : "Product containing vincristine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23222006",
+      "display" : "Product containing antiserum (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23343005",
+      "display" : "Human thrombocyte preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23532003",
+      "display" : "Product containing phenmetrazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23827009",
+      "display" : "Product containing sulfacetamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23888001",
+      "display" : "Product containing cascara (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "24036003",
+      "display" : "Medicinal product acting as antianemic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "24450004",
+      "display" : "Product containing ethambutol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "24504000",
+      "display" : "Product containing methylcellulose (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "24866006",
+      "display" : "Product containing Salmonella typhimurium antiserum (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25014009",
+      "display" : "Product containing tripelennamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25076002",
+      "display" : "Product containing carisoprodol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25085002",
+      "display" : "Product containing cholecystokinin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25142008",
+      "display" : "Product containing trilostane (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25246002",
+      "display" : "Product containing allopurinol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25398003",
+      "display" : "Product containing ichthammol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25419009",
+      "display" : "Product containing barium sulfate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25673006",
+      "display" : "Product containing omeprazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25860005",
+      "display" : "Product containing terconazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25995007",
+      "display" : "Product containing triprolidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26122009",
+      "display" : "Product containing dimetindene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26124005",
+      "display" : "Product containing glipizide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26244009",
+      "display" : "Product containing muscarinic receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26303005",
+      "display" : "Product containing hexestrol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26370007",
+      "display" : "Hemostatic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26458009",
+      "display" : "Product containing diphenhydramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26462003",
+      "display" : "Product containing cyproheptadine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26503009",
+      "display" : "Product containing deserpidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26523005",
+      "display" : "Product containing dobutamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26548008",
+      "display" : "Product containing pancreatic hormone (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26574002",
+      "display" : "Product containing droperidol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26580005",
+      "display" : "Digestant"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26736008",
+      "display" : "Product containing ferrous gluconate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26800000",
+      "display" : "Product containing midazolam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "26842003",
+      "display" : "Product containing burbot liver oil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27035007",
+      "display" : "Product containing heavy metal antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27196008",
+      "display" : "Product containing bupivacaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27242001",
+      "display" : "Product containing methylprednisolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27479000",
+      "display" : "Product containing zidovudine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27566006",
+      "display" : "Drug vehicle preservative"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27638005",
+      "display" : "Product containing alteplase (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27658006",
+      "display" : "Product containing amoxicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27754002",
+      "display" : "Product containing piroxicam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27867009",
+      "display" : "Antineoplastic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28149003",
+      "display" : "Product containing pentostatin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28235004",
+      "display" : "Product containing doxapram (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28240007",
+      "display" : "Eye cosmetic"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28410007",
+      "display" : "Medicinal product containing alpha-carboxypenicillin and acting as antibacterial agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28415002",
+      "display" : "Product containing methscopolamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28426008",
+      "display" : "Product containing fluocinolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28506006",
+      "display" : "Product containing flucytosine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28748001",
+      "display" : "Product containing chloral hydrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28841002",
+      "display" : "Product containing ethisterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "28906000",
+      "display" : "Product containing percoid liver oil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29058003",
+      "display" : "Product containing halcinonide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29089004",
+      "display" : "Product containing mitobronitol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29121001",
+      "display" : "Product containing mersalyl (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29129004",
+      "display" : "Product containing oxymetazoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29156002",
+      "display" : "Mechlorethamine-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29175007",
+      "display" : "Product containing rifampicin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29439004",
+      "display" : "Product containing captopril (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29620001",
+      "display" : "Product containing beta tocopherol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29840005",
+      "display" : "Product containing amoxapine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29877002",
+      "display" : "Product containing isocarboxazid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "29896003",
+      "display" : "Product containing betamethasone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30010009",
+      "display" : "Product containing cyanocobalamin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30125007",
+      "display" : "Product containing senna (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30306003",
+      "display" : "Product containing thiamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30317002",
+      "display" : "Product containing cisapride (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30427009",
+      "display" : "Product containing erythromycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30466001",
+      "display" : "Product containing clomifene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30492008",
+      "display" : "Medicinal product acting as diuretic (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30729008",
+      "display" : "Product containing iron (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30761007",
+      "display" : "Product containing mannitol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30964009",
+      "display" : "Product containing methyprylon (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "30988006",
+      "display" : "Product containing dienestrol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31087008",
+      "display" : "Product containing ampicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31231007",
+      "display" : "Product containing hydrogen peroxide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31305008",
+      "display" : "Product containing Streptococcus equisimilis antiserum (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31306009",
+      "display" : "Product containing quinidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31684002",
+      "display" : "Product containing buprenorphine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31690003",
+      "display" : "Product containing bethanechol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31692006",
+      "display" : "Product containing pentamidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31716004",
+      "display" : "Human frozen plasma preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31865003",
+      "display" : "Product containing fluconazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "31872002",
+      "display" : "Product containing pramocaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32313007",
+      "display" : "Product containing enflurane (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32462006",
+      "display" : "Product containing melanocyte stimulating hormone releasing factor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32474005",
+      "display" : "Product containing probucol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32583002",
+      "display" : "Medicinal product acting as antiseborrheic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32647002",
+      "display" : "Product containing ergotamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32653002",
+      "display" : "Product containing ergosterol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32792001",
+      "display" : "Product containing trimethoprim (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32823007",
+      "display" : "Product containing maprotiline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32955006",
+      "display" : "Product containing domperidone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32960005",
+      "display" : "Product containing thiosalicylate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33124007",
+      "display" : "Product containing tolbutamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33219003",
+      "display" : "Medicinal product containing tricyclic compound and acting as antidepressant agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33231001",
+      "display" : "Product containing pentobarbital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33252009",
+      "display" : "Product containing beta adrenergic receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33378002",
+      "display" : "Product containing desipramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33588000",
+      "display" : "Product containing thioridazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33589008",
+      "display" : "Product containing glycoside (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33664007",
+      "display" : "Product containing acetazolamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33675006",
+      "display" : "Product containing carbachol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33682005",
+      "display" : "Medicinal product acting as mydriatic (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "33815001",
+      "display" : "Product containing Streptococcus suis antiserum (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34012005",
+      "display" : "Product containing sulfonylurea (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34217006",
+      "display" : "Product containing oxyquinoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34364009",
+      "display" : "Product containing mefenamic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34393009",
+      "display" : "Product containing tolazamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34462007",
+      "display" : "Product containing natamycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34599009",
+      "display" : "Product containing thyroglobulin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34693000",
+      "display" : "Product containing zalcitabine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34731007",
+      "display" : "Product containing carbenicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34816007",
+      "display" : "Product containing cod liver oil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34833000",
+      "display" : "Product containing hydrocortisone in ocular dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "34929006",
+      "display" : "Product containing benzethonium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35035001",
+      "display" : "Product containing orphenadrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35063004",
+      "display" : "Product containing ribavirin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35282000",
+      "display" : "Product containing gemfibrozil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35300007",
+      "display" : "Product containing daunorubicin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35324004",
+      "display" : "Product containing paraldehyde (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35392005",
+      "display" : "Product containing calcium exchange resin (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35476001",
+      "display" : "Product containing silver nitrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35531004",
+      "display" : "Product containing hydrocortamate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35768004",
+      "display" : "Product containing oxybutynin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35792007",
+      "display" : "Peritoneal dialysis solution"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35967000",
+      "display" : "Product containing medazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "35983000",
+      "display" : "Human blood cell preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36068003",
+      "display" : "Product containing pyrantel (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36113004",
+      "display" : "Product containing imipramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36218003",
+      "display" : "Product containing thiethylperazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36236003",
+      "display" : "Medicinal product acting as antidepressant agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36391008",
+      "display" : "Product containing primaquine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36537006",
+      "display" : "Product containing ambenonium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36594001",
+      "display" : "Product containing tiabendazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36621009",
+      "display" : "Product containing medroxyprogesterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36642006",
+      "display" : "Product containing propantheline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36893000",
+      "display" : "Product containing ceftazidime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36909007",
+      "display" : "Product containing phenindamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "37084008",
+      "display" : "Medicinal product containing quinolone and acting as antibacterial agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "37306000",
+      "display" : "Product containing vidarabine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "37400007",
+      "display" : "Product containing magnesium sulfate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "37628007",
+      "display" : "Product containing cefalotin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "37803001",
+      "display" : "Product containing tubocurarine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38076006",
+      "display" : "Product containing thyroxine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38166006",
+      "display" : "Product containing tolnaftate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38231004",
+      "display" : "Product containing polysaccharide-iron complex (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38268001",
+      "display" : "Product containing ibuprofen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38314008",
+      "display" : "Product containing isotretinoin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38413003",
+      "display" : "Product manufactured as otic dose form (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38578004",
+      "display" : "Product containing megestrol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38828006",
+      "display" : "Product containing sodium thiosulfate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39064002",
+      "display" : "Product containing acetohexamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39124003",
+      "display" : "Product containing methohexital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39128000",
+      "display" : "Product containing famotidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39142008",
+      "display" : "Product containing phendimetrazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39359008",
+      "display" : "Phenoxymethylpenicillin-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39432004",
+      "display" : "Deodorant"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39487003",
+      "display" : "Insulin-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39516004",
+      "display" : "Product containing disulfiram (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39608003",
+      "display" : "Product containing pentazocine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39707000",
+      "display" : "Product containing para-aminobenzoic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39860005",
+      "display" : "Product containing fructose (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "39939003",
+      "display" : "Product containing phenyltoloxamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40232005",
+      "display" : "Product containing ketoconazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40339003",
+      "display" : "Product containing calcium lactate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40429005",
+      "display" : "Product containing etomidate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40430000",
+      "display" : "Product containing bromelains (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40556005",
+      "display" : "Product containing phenytoin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40562000",
+      "display" : "Product containing methylergometrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40589005",
+      "display" : "Product containing amitriptyline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40648001",
+      "display" : "Product containing fentanyl (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40820003",
+      "display" : "Product containing carbamazepine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40877002",
+      "display" : "Product containing streptomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40905005",
+      "display" : "Product containing beractant (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40974005",
+      "display" : "Product containing dipipanone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40999006",
+      "display" : "Product containing lomustine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41001009",
+      "display" : "Product containing dinoprost (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41015006",
+      "display" : "Product containing metaraminol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41147003",
+      "display" : "Product containing perphenazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41193000",
+      "display" : "Product containing aciclovir (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41324009",
+      "display" : "Product containing propiomazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41365009",
+      "display" : "Product containing fluphenazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41367001",
+      "display" : "Product containing enterogastrone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41399007",
+      "display" : "Product containing oxazolidinedione (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41470001",
+      "display" : "Product containing corbadrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41493007",
+      "display" : "Product containing dicycloverine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41549009",
+      "display" : "Product containing angiotensin-converting enzyme inhibitor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "41985001",
+      "display" : "Product containing bitolterol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42082003",
+      "display" : "Product containing vancomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42098005",
+      "display" : "Product containing dexamethasone in ocular dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42271003",
+      "display" : "Product containing glutamic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42348003",
+      "display" : "Product containing methyltestosterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42444000",
+      "display" : "Product containing secobarbital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42514000",
+      "display" : "Product containing procaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42638008",
+      "display" : "Product containing methylrosanilinium chloride (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42714002",
+      "display" : "Product containing Escherichia coli antiserum (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "42720001",
+      "display" : "Product containing miconazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "43343000",
+      "display" : "Product containing magaldrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "43533002",
+      "display" : "Product containing chloramphenicol in ocular dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "43684009",
+      "display" : "Product containing misoprostol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "43747001",
+      "display" : "Drug excipient"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "43753001",
+      "display" : "Product containing dydrogesterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "43879000",
+      "display" : "Product containing flunisolide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "43927002",
+      "display" : "Analeptic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44175000",
+      "display" : "Product containing diperodon (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44418001",
+      "display" : "Product containing percomorph liver oil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44658005",
+      "display" : "Product containing promazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44731005",
+      "display" : "Hydrocortisone-containing product in otic dose form"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44790008",
+      "display" : "Product containing ethosuximide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44798001",
+      "display" : "Product containing dinoprostone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44938006",
+      "display" : "Product containing cefoperazone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "44990002",
+      "display" : "Product containing procyclidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "45218006",
+      "display" : "Product containing clemastine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "45311002",
+      "display" : "Product containing terbutaline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "45313004",
+      "display" : "Product containing propylpiperazine derivative of phenothiazine (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "45518007",
+      "display" : "Medicinal product containing thiazide and acting as diuretic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "45680002",
+      "display" : "Product containing tolmetin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "45844004",
+      "display" : "Product containing sulfasalazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "45888006",
+      "display" : "Product containing gamma tocopherol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46009007",
+      "display" : "Product containing chlorambucil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46123006",
+      "display" : "Product containing ascorbic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46436003",
+      "display" : "Product containing haloprogin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46479001",
+      "display" : "Product containing encainide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46532003",
+      "display" : "Product containing brilliant green (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46547007",
+      "display" : "Product containing labetalol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46576005",
+      "display" : "Product containing flecainide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46709004",
+      "display" : "Product containing methylphenobarbital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46741005",
+      "display" : "Product containing salicylic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "46913003",
+      "display" : "Product containing edrophonium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47065008",
+      "display" : "Product containing quinine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47120002",
+      "display" : "Product containing primidone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47124006",
+      "display" : "Product containing aminoglutethimide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47140009",
+      "display" : "Product containing medrysone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47331002",
+      "display" : "Product containing chlorpromazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47527007",
+      "display" : "Product containing phenindione (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47602007",
+      "display" : "Product containing nalidixic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47755009",
+      "display" : "Medicinal product acting as potassium-sparing diuretic (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "47898004",
+      "display" : "Product containing verapamil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48174005",
+      "display" : "Product containing ranitidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48256008",
+      "display" : "Product containing benzyl benzoate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48279009",
+      "display" : "Emollient product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48351000",
+      "display" : "Product containing phenylbutazone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48546005",
+      "display" : "Product containing diazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48603004",
+      "display" : "Product containing warfarin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48614001",
+      "display" : "Product containing clobetasol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48647005",
+      "display" : "Product containing pancrelipase (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48698004",
+      "display" : "Product containing calcium channel blocker (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48836000",
+      "display" : "Product containing amikacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48875009",
+      "display" : "Product containing dihydroergotamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "48899009",
+      "display" : "Product containing hyoscyamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49019002",
+      "display" : "Product containing prednisolone in ocular dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49157004",
+      "display" : "Uricosuric agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49267000",
+      "display" : "Product containing oxyphenbutazone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49299006",
+      "display" : "Product containing protriptyline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49485009",
+      "display" : "Product containing norfloxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49577002",
+      "display" : "Product containing minoxidil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49617001",
+      "display" : "Product containing carbenoxolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49663007",
+      "display" : "Sunscreen agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49669006",
+      "display" : "Product containing Escherichia coli antiserum and Pasteurella multocida antiserum and Salmonella typhimurium antiserum (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49688004",
+      "display" : "Product containing hexocyclium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49694007",
+      "display" : "Mucolytic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49705006",
+      "display" : "Product containing idoxuridine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "49953001",
+      "display" : "Product containing pheniramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50094009",
+      "display" : "Product containing hetastarch (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50182002",
+      "display" : "Hemodialysis fluid"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50318003",
+      "display" : "Product containing progesterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50335004",
+      "display" : "Product containing levorphanol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50520001",
+      "display" : "Product containing framycetin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50841004",
+      "display" : "Product containing chloramphenicol in otic dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50868004",
+      "display" : "Product containing dexamfetamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51013009",
+      "display" : "Product containing sulfadimethoxine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51073002",
+      "display" : "Product containing phenobarbital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51126006",
+      "display" : "Product containing benzestrol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51132001",
+      "display" : "Product containing hyaluronidase (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51326002",
+      "display" : "Product containing carmustine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51334008",
+      "display" : "Product containing cycloserine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51361008",
+      "display" : "Product containing amantadine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51752005",
+      "display" : "Product containing dehydrocholic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51758009",
+      "display" : "Product containing methadone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51908007",
+      "display" : "Product containing prenylamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "51992002",
+      "display" : "Product containing gastrin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52017007",
+      "display" : "Medicinal product acting as antiemetic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52108005",
+      "display" : "Product containing ferrous fumarate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52215008",
+      "display" : "Product containing desonide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52388000",
+      "display" : "Product containing prednisolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52423008",
+      "display" : "Tar-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52883001",
+      "display" : "Product containing hydroxyamfetamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52896000",
+      "display" : "Product containing clioquinol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53009005",
+      "display" : "Medicinal product acting as analgesic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53480001",
+      "display" : "Product containing phentermine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53584007",
+      "display" : "Product containing methacholine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53640004",
+      "display" : "Product containing fluoxetine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53641000",
+      "display" : "Product containing flavoxate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53691001",
+      "display" : "Product containing calcium gluconate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53793005",
+      "display" : "Product containing Escherichia coli antibody (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53800008",
+      "display" : "Product containing dithranol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "53848009",
+      "display" : "Product containing metyrapone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54142000",
+      "display" : "Product containing domiphen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54344006",
+      "display" : "Product containing flurbiprofen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54391004",
+      "display" : "Product containing levamisole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54406003",
+      "display" : "Product containing methoxamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54541002",
+      "display" : "Product containing ergometrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54544005",
+      "display" : "Product containing pethidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54577009",
+      "display" : "Product containing ceftizoxime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54705000",
+      "display" : "Product containing temazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54765002",
+      "display" : "Product containing phenylephrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54824008",
+      "display" : "Product containing isometheptene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54882005",
+      "display" : "Product containing amfepramone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54887004",
+      "display" : "Product containing cefalexin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54972005",
+      "display" : "Product containing tretinoin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "54982006",
+      "display" : "Product containing methestrol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55015008",
+      "display" : "Product containing sodium lactate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55217007",
+      "display" : "Product containing calcium carbonate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55432002",
+      "display" : "Product containing azlocillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55556000",
+      "display" : "Product containing tetracaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55673009",
+      "display" : "Product containing sodium iothalamate (125-I) (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55745002",
+      "display" : "Product containing propranolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55830003",
+      "display" : "Product containing human menopausal gonadotropin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55867006",
+      "display" : "Product containing aminophylline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "55889005",
+      "display" : "Product containing praziquantel (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56014002",
+      "display" : "Product containing hydroxyprogesterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56032002",
+      "display" : "Product containing androstanolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56059005",
+      "display" : "Product containing mebendazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56123002",
+      "display" : "Product containing methenamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56230001",
+      "display" : "Product containing bretylium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56234005",
+      "display" : "Product containing somatotropin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56480005",
+      "display" : "Product containing brompheniramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56549003",
+      "display" : "Product containing metoclopramide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56602009",
+      "display" : "Product containing hydroxycarbamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56928005",
+      "display" : "Product containing etoposide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56934003",
+      "display" : "Product containing povidone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57002000",
+      "display" : "Product containing chlorprothixene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57066004",
+      "display" : "Product containing cisplatin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57191001",
+      "display" : "Product containing chloramphenicol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57263002",
+      "display" : "Product containing oxiconazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57376006",
+      "display" : "Product containing sodium bicarbonate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57538001",
+      "display" : "Product containing chlortetracycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57616006",
+      "display" : "Product containing sodium tetradecyl sulfate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57670008",
+      "display" : "Product containing cefoxitin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57752001",
+      "display" : "Product containing gentamicin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57811004",
+      "display" : "Product containing dihydrocodeine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57819002",
+      "display" : "Product containing somatostatin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57845006",
+      "display" : "Product containing isoprenaline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57853003",
+      "display" : "Product containing clidinium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57893000",
+      "display" : "Product containing chlortalidone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "57952007",
+      "display" : "Antilipemic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58050004",
+      "display" : "Antiparkinson agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58360000",
+      "display" : "Product containing phenazocine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58467001",
+      "display" : "Product containing papaverine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58502006",
+      "display" : "Product containing propylamine derivative and histamine receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58760003",
+      "display" : "Product containing antimetabolite (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58805000",
+      "display" : "Product containing pituitary hormone (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58883005",
+      "display" : "Product containing clindamycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58892008",
+      "display" : "Product containing trifluridine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58905004",
+      "display" : "Product containing diazoxide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58944007",
+      "display" : "Medicinal product acting as vasodilator (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59057006",
+      "display" : "Product containing antihemophilic factor agent (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59187003",
+      "display" : "Product containing dopamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59240002",
+      "display" : "Product containing mitomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59255006",
+      "display" : "Medicinal product containing sulfonamide and acting as antibacterial agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59270007",
+      "display" : "Product containing loxapine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59456005",
+      "display" : "Product containing astemizole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59589008",
+      "display" : "Product containing pyrimethamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59594008",
+      "display" : "Product containing nondepolarizing neuromuscular blocker (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59751001",
+      "display" : "Antitussive agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59941008",
+      "display" : "Product containing diltiazem (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "59953007",
+      "display" : "Product containing pyridostigmine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60149003",
+      "display" : "Product containing indometacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60169008",
+      "display" : "Medicinal product acting as antacid agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60468008",
+      "display" : "Product containing magnesium hydroxide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60533005",
+      "display" : "Medicinal product acting as astringent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60541005",
+      "display" : "Product containing lanatoside C (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60682004",
+      "display" : "Product containing ecothiopate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60731009",
+      "display" : "Product containing diethylcarbamazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60881009",
+      "display" : "Product containing diamorphine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "60978003",
+      "display" : "Product containing barbiturate (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61020000",
+      "display" : "Product containing thyroid hormone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61093008",
+      "display" : "Product containing prolactin inhibiting factor (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61132004",
+      "display" : "Product containing gas gangrene antitoxin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61181002",
+      "display" : "Product containing meprednisone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61408004",
+      "display" : "Product containing molindone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61457001",
+      "display" : "Product containing adrenal hormone (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61621000",
+      "display" : "Medicinal product acting as laxative (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61623002",
+      "display" : "Product containing buclizine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61651006",
+      "display" : "Product containing cefamandole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61862008",
+      "display" : "Product containing meticillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "61946003",
+      "display" : "Estrogen receptor agonist-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "62051009",
+      "display" : "Product containing dichlorisone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "62294009",
+      "display" : "Varicella-zoster virus antibody-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "62529008",
+      "display" : "Product containing tiotixene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "62560008",
+      "display" : "Product containing fluorometholone in ocular dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "62782004",
+      "display" : "Product containing clonidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63094006",
+      "display" : "Medicinal product acting as anticonvulsant agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63136007",
+      "display" : "Product containing phytomenadione (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63318000",
+      "display" : "Product containing benzoic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63338004",
+      "display" : "Drug flavoring"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63470003",
+      "display" : "Product containing fluoxymesterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63639004",
+      "display" : "Product containing nicotinic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63682003",
+      "display" : "Product containing halothane (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63758001",
+      "display" : "Product containing norethisterone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63822004",
+      "display" : "Vitamin E and/or vitamin E derivative-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64115004",
+      "display" : "Product containing amodiaquine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64127001",
+      "display" : "Product containing dactinomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64240003",
+      "display" : "Product containing methandrostenolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64349004",
+      "display" : "Product containing griseofulvin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64462001",
+      "display" : "Product containing terpin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64558005",
+      "display" : "Methixene-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64851009",
+      "display" : "Product containing diiodohydroxyquinoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "64878006",
+      "display" : "Product containing methylthiouracil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65020006",
+      "display" : "Product containing benzocaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65026000",
+      "display" : "Product containing ephedrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65041000",
+      "display" : "Product containing biperiden (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65092008",
+      "display" : "Product containing chloropyrilene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65484006",
+      "display" : "Product containing prostacyclin PGI2 (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65502005",
+      "display" : "Product containing epinephrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65627005",
+      "display" : "Product containing vitamin K5 (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65884003",
+      "display" : "Product containing dantron (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "65965000",
+      "display" : "Product containing Micrurus fulvius antivenom (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66094001",
+      "display" : "Product containing probenecid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66125007",
+      "display" : "Product containing flunisolide in nasal dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66261008",
+      "display" : "Product containing tetracycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66349002",
+      "display" : "Product containing androgen receptor agonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66441000",
+      "display" : "Product containing pantothenic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66492008",
+      "display" : "Product containing isoflurane (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66493003",
+      "display" : "Product containing theophylline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66602007",
+      "display" : "Product containing stanozolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66742008",
+      "display" : "Pigmenting agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66859009",
+      "display" : "Product containing dipyridamole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66860004",
+      "display" : "Product containing aluminium chloride (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66919007",
+      "display" : "Product containing methyclothiazide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66971004",
+      "display" : "Product containing colestipol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67213005",
+      "display" : "Product containing lymphocyte immunoglobulin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67423003",
+      "display" : "Medicinal product containing acylaminopenicillin and acting as antibacterial agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67440007",
+      "display" : "Product containing alpha adrenergic receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67507000",
+      "display" : "Medicinal product acting as antiarrhythmic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67735003",
+      "display" : "Product containing paclitaxel (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67891001",
+      "display" : "Second generation cephalosporin antibacterial agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67939000",
+      "display" : "Product containing apomorphine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68088000",
+      "display" : "Product containing acebutolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68206008",
+      "display" : "Product containing calcitriol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68395000",
+      "display" : "Product containing calcium chloride (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68398003",
+      "display" : "Product containing somatomedin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68402007",
+      "display" : "Product containing carbonic anhydrase inhibitor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68407001",
+      "display" : "Hydrogen peroxide 300 mg/mL cutaneous solution"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68422006",
+      "display" : "Product containing cloxacillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68424007",
+      "display" : "Product containing isoflurophate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68444001",
+      "display" : "Product containing doxorubicin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68490009",
+      "display" : "Product containing sodium propionate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68622003",
+      "display" : "Product containing secretin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68702006",
+      "display" : "Product containing sodium aurothiomalate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68774008",
+      "display" : "Product containing isoxsuprine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68887009",
+      "display" : "Product containing methotrexate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "68892006",
+      "display" : "Penicillinase-resistant penicillin antibacterial agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69107004",
+      "display" : "Product containing dantrolene (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69204002",
+      "display" : "Product containing guanadrel (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69236009",
+      "display" : "Product containing amiodarone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69242008",
+      "display" : "Medicinal product acting as miotic (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69331001",
+      "display" : "Product containing ciclacillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69431002",
+      "display" : "Medicinal product acting as immunosuppressant (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69576000",
+      "display" : "Product containing menadione (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69708003",
+      "display" : "Product containing clonazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69879000",
+      "display" : "Product containing altretamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69918003",
+      "display" : "Product containing aztreonam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "69967001",
+      "display" : "Product containing sucralfate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70047000",
+      "display" : "Product containing sulfamethoxazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70254000",
+      "display" : "Product containing sulfamethizole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70343008",
+      "display" : "Product containing piperazine derivative and histamine receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70379000",
+      "display" : "Product containing sodium chloride (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70460002",
+      "display" : "Fish liver oil-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70702006",
+      "display" : "Product containing deferoxamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70776005",
+      "display" : "Product containing pemoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70841003",
+      "display" : "Product containing chymotrypsin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70864001",
+      "display" : "Product containing meprobamate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70934008",
+      "display" : "Product containing demecarium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71289008",
+      "display" : "Product containing snake antivenom immunoglobulin (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71451001",
+      "display" : "Product containing kanamycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71453003",
+      "display" : "Product containing mupirocin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71455005",
+      "display" : "Product containing fludroxycortide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71462001",
+      "display" : "Product containing Podophyllum resin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71516007",
+      "display" : "Product containing ergocalciferol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71584004",
+      "display" : "Product containing monobasic sodium phosphate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71634000",
+      "display" : "Product containing chlormezanone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71699007",
+      "display" : "Product containing trifluoperazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71724000",
+      "display" : "Product containing ferrous sulfate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71731001",
+      "display" : "Product containing medrysone in ocular dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71759000",
+      "display" : "Product containing glyceryl trinitrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71770007",
+      "display" : "Product containing monoamine oxidase inhibitor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71798005",
+      "display" : "Product containing fenoprofen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "71837009",
+      "display" : "Cytotoxic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "72312007",
+      "display" : "Product containing cyclandelate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "72416006",
+      "display" : "Product containing metacycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "72623000",
+      "display" : "Product containing tioguanine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "72824008",
+      "display" : "Product containing colestyramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "72870001",
+      "display" : "Product containing scopolamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "72924009",
+      "display" : "Product containing clofazimine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "72968006",
+      "display" : "Product containing sodium salicylate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73074003",
+      "display" : "Product containing colistin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73093001",
+      "display" : "Product containing neomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73133000",
+      "display" : "Product containing colchicine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73170009",
+      "display" : "Product containing menthol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73212002",
+      "display" : "Product containing iodipamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73274006",
+      "display" : "Human plasma cryoprecipitate"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73277004",
+      "display" : "Product containing mecamylamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73454001",
+      "display" : "Product containing desmopressin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73572009",
+      "display" : "Product containing morphine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73647000",
+      "display" : "Dipivefrin-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73756003",
+      "display" : "Product containing amobarbital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73763003",
+      "display" : "Medicinal product containing extended spectrum penicillin and acting as antibacterial agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73805002",
+      "display" : "Product containing thyrotropin releasing factor (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73949004",
+      "display" : "Product containing atropine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "73986003",
+      "display" : "Product containing cefuroxime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74022005",
+      "display" : "Product containing mepenzolate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74065006",
+      "display" : "Product containing prazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74074008",
+      "display" : "Product containing atracurium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74213004",
+      "display" : "Product containing indapamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74226000",
+      "display" : "Vitamin K and/or vitamin K derivative"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74470007",
+      "display" : "Product containing cyclophosphamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74480006",
+      "display" : "Medicinal product acting as potassium supplement (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74575000",
+      "display" : "Product containing piperacillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74583006",
+      "display" : "Product containing hydroquinone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74626007",
+      "display" : "Drug diluent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74632002",
+      "display" : "Succinimide-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74674007",
+      "display" : "Product containing propofol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74771007",
+      "display" : "Product containing phenoxybenzamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74782004",
+      "display" : "Product containing naturally occurring alkaloid (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74798006",
+      "display" : "Product containing pipenzolate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "74819009",
+      "display" : "Product containing acetohydroxamic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75029008",
+      "display" : "Deoxycortone-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75203002",
+      "display" : "Product containing mometasone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75429004",
+      "display" : "Product containing dexbrompheniramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75501004",
+      "display" : "Product containing bromazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75661008",
+      "display" : "Product containing delta tocopherol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75927008",
+      "display" : "Product containing floxuridine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75959001",
+      "display" : "Product containing tamoxifen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75969007",
+      "display" : "Product containing gonadotropin releasing factor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76058001",
+      "display" : "Product containing prazosin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76155001",
+      "display" : "Product containing iopanoic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76286000",
+      "display" : "Product containing gallamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76289007",
+      "display" : "Product containing xylometazoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76385003",
+      "display" : "Product containing alpha-1 adrenergic receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76390000",
+      "display" : "Product containing practolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76591000",
+      "display" : "Product containing bleomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76696004",
+      "display" : "Product containing noscapine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76759004",
+      "display" : "Product containing disopyramide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76962009",
+      "display" : "Product containing iproniazid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77035009",
+      "display" : "Product containing clofibrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77048008",
+      "display" : "Product containing diphtheria antitoxin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77237006",
+      "display" : "Emetic agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77390008",
+      "display" : "Product containing benzatropine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77398001",
+      "display" : "Medicinal product acting as antidiarrheal agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77549006",
+      "display" : "Product containing terpene (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77731008",
+      "display" : "Product containing acetylcysteine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77750008",
+      "display" : "Product containing dacarbazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77856005",
+      "display" : "Product containing esmolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77885004",
+      "display" : "Product containing mestranol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "77898008",
+      "display" : "Product containing simeticone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78025001",
+      "display" : "Product containing ganciclovir (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78174002",
+      "display" : "Product containing mezlocillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78379001",
+      "display" : "Product containing reserpine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78449007",
+      "display" : "Product containing nitrazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78507004",
+      "display" : "Product containing benzylpenicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78542000",
+      "display" : "Product containing potassium citrate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78684000",
+      "display" : "Product containing mesoridazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78700004",
+      "display" : "Product containing fenfluramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "78983008",
+      "display" : "Product containing etamivan (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79129001",
+      "display" : "Product containing prochlorperazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79138004",
+      "display" : "Product containing gelatin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79221007",
+      "display" : "Product containing propoxycaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79225003",
+      "display" : "Product containing oxazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79305004",
+      "display" : "Product containing guanethidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79332009",
+      "display" : "Product containing diethylstilbestrol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79356008",
+      "display" : "Product containing acenocoumarol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79440004",
+      "display" : "Corticosteroid and/or corticosteroid derivative-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79543000",
+      "display" : "Psychostimulant"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79736009",
+      "display" : "Product containing ciclopirox (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "79873000",
+      "display" : "Vaccinia human immune globulin-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80024007",
+      "display" : "Product containing neostigmine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80127003",
+      "display" : "Product containing phenylpropanolamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80165005",
+      "display" : "Product containing hydroxyzine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80311000",
+      "display" : "Product containing chlorphenesin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80371006",
+      "display" : "Drug coating"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80399002",
+      "display" : "Product containing aluminium hydroxide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80618000",
+      "display" : "Product containing ethylestrenol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80732005",
+      "display" : "Product containing sulfafurazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80802008",
+      "display" : "Product containing cyclobenzaprine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80834004",
+      "display" : "Product containing rabies human immune globulin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80870001",
+      "display" : "Product containing glibenclamide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "80906007",
+      "display" : "Product containing ciclosporin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81024003",
+      "display" : "Cosmetic"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81073007",
+      "display" : "Product containing dimenhydrinate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81088002",
+      "display" : "Product containing cefazolin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81219009",
+      "display" : "Mumps human immune globulin-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81252003",
+      "display" : "Third generation cephalosporin antibacterial agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81335000",
+      "display" : "Product containing isoniazid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81388006",
+      "display" : "Drug additive"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81457006",
+      "display" : "Product containing desoximetasone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81583003",
+      "display" : "Product containing procarbazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81609008",
+      "display" : "Product containing furosemide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81646007",
+      "display" : "Product containing diphenylpyraline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81728006",
+      "display" : "Product containing digitoxin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81759008",
+      "display" : "Immune enhancement agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81839001",
+      "display" : "Medicinal product acting as anticoagulant agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "81947000",
+      "display" : "Product containing etacrynic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82133001",
+      "display" : "Product containing noretynodrel (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82156005",
+      "display" : "Product containing retinol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82165003",
+      "display" : "Product containing phentolamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82166002",
+      "display" : "Product containing prolactin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82240008",
+      "display" : "Product containing norgestrel (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82264009",
+      "display" : "Product containing homatropine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82290007",
+      "display" : "Product containing bismuth (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82312001",
+      "display" : "Product containing bacampicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82573000",
+      "display" : "Product containing lidocaine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82746003",
+      "display" : "Product containing chlordiazepoxide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82804004",
+      "display" : "Product manufactured as nasal dose form (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82896009",
+      "display" : "Product containing nadolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "82951001",
+      "display" : "Product containing guanabenz (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83085007",
+      "display" : "Product containing nalbuphine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83192000",
+      "display" : "Product containing mescaline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83201006",
+      "display" : "Product containing oxacillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83288003",
+      "display" : "Product containing diloxanide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83490000",
+      "display" : "Product containing hydroxychloroquine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83532008",
+      "display" : "Product containing cimetidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83692001",
+      "display" : "Product containing mineralocorticoid (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83973001",
+      "display" : "Product containing methocarbamol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "83999008",
+      "display" : "Product containing clarithromycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "84078002",
+      "display" : "Product containing methyldopa (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "84737005",
+      "display" : "Product containing mafenide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "84812008",
+      "display" : "Product containing heparin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "84844007",
+      "display" : "Product containing butoconazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "84879009",
+      "display" : "Human plasma preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "84951002",
+      "display" : "Product containing meclozine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "84986000",
+      "display" : "Product containing corticotropin releasing factor (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85063003",
+      "display" : "Product containing opioid receptor partial agonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85272000",
+      "display" : "Product containing nifedipine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85343003",
+      "display" : "Product containing nitrofurantoin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85354008",
+      "display" : "Product containing cyclizine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85408000",
+      "display" : "Product containing antazoline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85417000",
+      "display" : "Product containing autonomic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85429009",
+      "display" : "Product containing physostigmine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85468002",
+      "display" : "Product containing polythiazide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85507008",
+      "display" : "Product containing esterified estrogen (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85591001",
+      "display" : "Product containing timolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85990009",
+      "display" : "Product containing codeine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86066003",
+      "display" : "Product containing spectinomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86080005",
+      "display" : "Product containing botulinum antitoxin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86085000",
+      "display" : "Product containing vecuronium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86131002",
+      "display" : "Product containing metirosine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86162003",
+      "display" : "Product containing nandrolone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86308005",
+      "display" : "Product containing sympathomimetic (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86337009",
+      "display" : "Product containing human tetanus immunoglobulin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86389004",
+      "display" : "Product containing shark liver oil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86536001",
+      "display" : "Medicinal product containing natural penicillin and acting as antibacterial agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86647004",
+      "display" : "Product containing bumetanide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86906004",
+      "display" : "Product containing propylamino derivative of phenothiazine (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86939001",
+      "display" : "Product containing sulfaguanidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "86977007",
+      "display" : "Product containing mesalazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87233003",
+      "display" : "Product containing low molecular weight heparin (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87285001",
+      "display" : "Product containing nimodipine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87395005",
+      "display" : "Product containing amiloride (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87567009",
+      "display" : "Product containing mefloquine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87586001",
+      "display" : "Product containing neuromuscular blocker (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87617007",
+      "display" : "Product containing naltrexone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87652004",
+      "display" : "Product containing atenolol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "87881000",
+      "display" : "Product containing danazol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88134000",
+      "display" : "Product containing rauwolfia alkaloid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88226000",
+      "display" : "Product containing hydrocortisone in nasal dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88279005",
+      "display" : "Medicinal product acting as antirheumatic agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88487009",
+      "display" : "Human whole blood preparation"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88519001",
+      "display" : "Product containing calcifediol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88566002",
+      "display" : "Product containing liver extract (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88579006",
+      "display" : "Human frozen red blood cells"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88870000",
+      "display" : "First generation cephalosporin antibacterial agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "88997008",
+      "display" : "Product containing thiotepa (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89018006",
+      "display" : "Product containing naloxone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89029005",
+      "display" : "Product containing levomepromazine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89045007",
+      "display" : "Product containing pertussis human immune globulin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89092006",
+      "display" : "Product containing tranylcypromine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89132005",
+      "display" : "Product containing chenodeoxycholic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89192008",
+      "display" : "Product containing fludrocortisone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89265009",
+      "display" : "Product containing cytarabine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89435001",
+      "display" : "Product containing poliomyelitis human immune globulin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89466007",
+      "display" : "Product containing methallenestril (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89505005",
+      "display" : "Product containing sulindac (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89626004",
+      "display" : "Medicinal product acting as antidote agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89664002",
+      "display" : "Product containing metocurine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89692007",
+      "display" : "Product containing crotamiton (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89695009",
+      "display" : "Product containing tobramycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "89785009",
+      "display" : "Product containing ritodrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90000002",
+      "display" : "Smooth muscle relaxant"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90017009",
+      "display" : "Product containing estrone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90332006",
+      "display" : "Product containing paracetamol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90346006",
+      "display" : "Product containing razoxane (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90356005",
+      "display" : "Product containing pilocarpine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90370005",
+      "display" : "Product containing benzalkonium (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90426002",
+      "display" : "Product containing trimipramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90614001",
+      "display" : "Beta-lactam antibacterial agent"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90659009",
+      "display" : "Product containing natamycin in ocular dose form (medicinal product form)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90704004",
+      "display" : "Medicinal product containing aminopenicillin and acting as antibacterial agent (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90802006",
+      "display" : "Product containing reversible anticholinesterase (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "90882008",
+      "display" : "Product containing carbinoxamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91107009",
+      "display" : "Product containing caffeine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91135008",
+      "display" : "Product containing bendroflumethiazide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91143003",
+      "display" : "Product containing salbutamol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91169009",
+      "display" : "Product containing nafcillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91307002",
+      "display" : "Digitalis-containing product"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91339009",
+      "display" : "Product containing trimetrexate (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91376007",
+      "display" : "Product containing pentoxifylline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91435002",
+      "display" : "Product containing pseudoephedrine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91452003",
+      "display" : "Product containing buspirone (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91479004",
+      "display" : "Product containing gramicidin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "91667005",
+      "display" : "Product containing hydrochlorothiazide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "95998000",
+      "display" : "Perfume"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96005000",
+      "display" : "Drug vehicle"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96011002",
+      "display" : "Product containing carbomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96014005",
+      "display" : "Product containing teicoplanin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96015006",
+      "display" : "Product containing fusidic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96018008",
+      "display" : "Product containing tiamulin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96020006",
+      "display" : "Product containing tylosin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96023008",
+      "display" : "Product containing virginiamycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96029007",
+      "display" : "Product containing apramycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96034006",
+      "display" : "Product containing azithromycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96038009",
+      "display" : "Product containing itraconazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96044008",
+      "display" : "Product containing ceftiofur (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96047001",
+      "display" : "Product containing cefpirome (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96049003",
+      "display" : "Product containing cefpodoxime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96051004",
+      "display" : "Product containing ceftibuten (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96052006",
+      "display" : "Product containing cefixime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96053001",
+      "display" : "Product containing cefsulodin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96054007",
+      "display" : "Product containing cefprozil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96055008",
+      "display" : "Product containing cefodizime (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96062004",
+      "display" : "Product containing meropenem (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96063009",
+      "display" : "Product containing mecillinam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96064003",
+      "display" : "Product containing pivmecillinam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96065002",
+      "display" : "Product containing temocillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96067005",
+      "display" : "Product containing flucloxacillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96072001",
+      "display" : "Product containing pivampicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96073006",
+      "display" : "Product containing talampicillin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96077007",
+      "display" : "Product containing lymecycline (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96081007",
+      "display" : "Product containing cinoxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96084004",
+      "display" : "Product containing enoxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96086002",
+      "display" : "Product containing ofloxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96087006",
+      "display" : "Product containing levofloxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96088001",
+      "display" : "Product containing lomefloxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96090000",
+      "display" : "Product containing sparfloxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96091001",
+      "display" : "Product containing temafloxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96093003",
+      "display" : "Product containing rosoxacin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96097002",
+      "display" : "Product containing famciclovir (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96099004",
+      "display" : "Product containing foscarnet (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96103009",
+      "display" : "Product containing ipronidazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96108000",
+      "display" : "Product containing imidocarb (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96119002",
+      "display" : "Product containing albendazole (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96138006",
+      "display" : "Product containing ivermectin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96149000",
+      "display" : "Product containing bambermycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96169005",
+      "display" : "Product containing salinomycin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96183007",
+      "display" : "Product containing alfentanil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96185000",
+      "display" : "Product containing tilidine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96191003",
+      "display" : "Product containing dextromoramide (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96195007",
+      "display" : "Product containing lamotrigine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96196008",
+      "display" : "Product containing butalbital (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96199001",
+      "display" : "Product containing bupropion (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96200003",
+      "display" : "Product containing mianserin (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96209002",
+      "display" : "Product containing clomipramine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96213009",
+      "display" : "Product containing fluvoxamine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96220002",
+      "display" : "Product containing flupentixol (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96221003",
+      "display" : "Product containing clozapine (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96231005",
+      "display" : "Product containing zolpidem (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96233008",
+      "display" : "Product containing lormetazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96234002",
+      "display" : "Product containing bromazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96236000",
+      "display" : "Product containing clobazam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96237009",
+      "display" : "Product containing flunitrazepam (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96246003",
+      "display" : "Product containing benzodiazepine receptor antagonist (product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96247007",
+      "display" : "Product containing flumazenil (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96252002",
+      "display" : "Product containing prolintane (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96278006",
+      "display" : "Product containing hyaluronic acid (medicinal product)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "96280000",
+      "display" : "Product containing bone resorption inhibitor (product)"
+    }]
+  }
+}

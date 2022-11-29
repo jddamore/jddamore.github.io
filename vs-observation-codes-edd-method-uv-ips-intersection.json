@@ -1,0 +1,9 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-69",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-69",
+  "name" : "IntersectionLOINCCodesAndPregnancyExpectedDeliveryDateMethodUvIps",
+  "title" : "Intersection of LOINC Codes And Pregnancy Expected Delivery Date Method - IPS",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:50-05:00"
+}

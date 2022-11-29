@@ -1,0 +1,16 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-12",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-12",
+  "name" : "IntersectionSNOMEDCTClinicalFindingsAndAllergyReactionSnomedCtIpsFreeSet",
+  "title" : "Intersection of SNOMED CT Clinical Findings And Allergy Reaction - SNOMED CT IPS Free Set",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:48-05:00",
+  "expansion" : {
+    "contains" : [{
+      "system" : "http://snomed.info/sct",
+      "code" : "4386001",
+      "display" : "Bronchospasm"
+    }]
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-41",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-41",
+  "name" : "UnionImmunizationTargetDiseaseCodesAndVaccineTargetDiseasesUvIps",
+  "title" : "Union of Immunization Target Disease Codes And Vaccine Target Diseases - IPS",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:49-05:00",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "http://unstats.un.org/unsd/methods/m49/m49.htm",
+      "code" : "001"
+    }]
+  }],
+  "compose" : {
+    "include" : [{
+      "concept" : [{
+        "code" : "1857005"
+      },
+      {
+        "code" : "397430003",
+        "display" : "Diphtheria caused by Corynebacterium diphtheriae (disorder)"
+      },
+      {
+        "code" : "14189004",
+        "display" : "Measles (disorder)"
+      },
+      {
+        "code" : "36989005",
+        "display" : "Mumps (disorder)"
+      },
+      {
+        "code" : "36653000",
+        "display" : "Rubella (disorder)"
+      },
+      {
+        "code" : "76902006",
+        "display" : "Tetanus (disorder)"
+      },
+      {
+        "code" : "709410003",
+        "display" : "Haemophilus influenzae type b infection (disorder)"
+      },
+      {
+        "code" : "27836007",
+        "display" : "Pertussis (disorder)"
+      },
+      {
+        "code" : "398102009",
+        "display" : "Acute poliomyelitis (disorder)"
+      },
+      {
+        "code" : "4834000",
+        "display" : "Typhoid fever (disorder)"
+      },
+      {
+        "code" : "6142004",
+        "display" : "Influenza (disorder)"
+      },
+      {
+        "code" : "6541001",
+        "display" : "Yellow fever (disorder)"
+      },
+      {
+        "code" : "14168008",
+        "display" : "Rabies (disorder)"
+      },
+      {
+        "code" : "18624000",
+        "display" : "Disease caused by Rotavirus (disorder)"
+      },
+      {
+        "code" : "23502006",
+        "display" : "Lyme disease (disorder)"
+      },
+      {
+        "code" : "23511006",
+        "display" : "Meningococcal infectious disease (disorder)"
+      },
+      {
+        "code" : "24662006",
+        "display" : "Influenza caused by Influenza B virus (disorder)"
+      },
+      {
+        "code" : "25225006",
+        "display" : "Disease caused by Adenovirus (disorder)"
+      },
+      {
+        "code" : "32398004",
+        "display" : "Bronchitis (disorder)"
+      },
+      {
+        "code" : "37246009",
+        "display" : "Disease caused by rickettsiae (disorder)"
+      },
+      {
+        "code" : "38907003",
+        "display" : "Varicella (disorder)"
+      },
+      {
+        "code" : "40468003",
+        "display" : "Viral hepatitis, type A (disorder)"
+      },
+      {
+        "code" : "50711007",
+        "display" : "Viral hepatitis type C (disorder)"
+      },
+      {
+        "code" : "52947006",
+        "display" : "Japanese encephalitis virus disease (disorder)"
+      },
+      {
+        "code" : "56717001",
+        "display" : "Tuberculosis (disorder)"
+      },
+      {
+        "code" : "58750007",
+        "display" : "Plague (disorder)"
+      },
+      {
+        "code" : "63650001",
+        "display" : "Cholera (disorder)"
+      },
+      {
+        "code" : "66071002",
+        "display" : "Viral hepatitis type B (disorder)"
+      },
+      {
+        "code" : "67924001",
+        "display" : "Smallpox (disorder)"
+      },
+      {
+        "code" : "70036007",
+        "display" : "Haemophilus influenzae pneumonia (disorder)"
+      },
+      {
+        "code" : "75702008",
+        "display" : "Brucellosis (disorder)"
+      },
+      {
+        "code" : "85904008",
+        "display" : "Paratyphoid fever (disorder)"
+      },
+      {
+        "code" : "111852003",
+        "display" : "Vaccinia (disorder)"
+      },
+      {
+        "code" : "186150001",
+        "display" : "Enteritis caused by rotavirus (disorder)"
+      },
+      {
+        "code" : "186772009",
+        "display" : "Rocky Mountain spotted fever (disorder)"
+      },
+      {
+        "code" : "186788009",
+        "display" : "Q fever (disorder)"
+      },
+      {
+        "code" : "240532009",
+        "display" : "Human papillomavirus infection (disorder)"
+      },
+      {
+        "code" : "240613006",
+        "display" : "Typhus group rickettsial disease (disorder)"
+      },
+      {
+        "code" : "372244006",
+        "display" : "Malignant melanoma (disorder)"
+      },
+      {
+        "code" : "398565003",
+        "display" : "Infection caused by Clostridium botulinum (disorder)"
+      },
+      {
+        "code" : "409498004",
+        "display" : "Anthrax (disorder)"
+      },
+      {
+        "code" : "417093003",
+        "display" : "Disease caused by West Nile virus (disorder)"
+      },
+      {
+        "code" : "442438000",
+        "display" : "Influenza caused by Influenza A virus (disorder)"
+      },
+      {
+        "code" : "442696006",
+        "display" : "Influenza caused by Influenza A virus subtype H1N1 (disorder)"
+      },
+      {
+        "code" : "450715004",
+        "display" : "Influenza caused by Influenza A virus subtype H7 (disorder)"
+      },
+      {
+        "code" : "707448003",
+        "display" : "Influenza caused by Influenza A virus subtype H7N9 (disorder)"
+      },
+      {
+        "code" : "712986001",
+        "display" : "Encephalitis caused by tick-borne encephalitis virus (disorder)"
+      },
+      {
+        "code" : "713083002",
+        "display" : "Influenza caused by Influenza A virus subtype H5 (disorder)"
+      },
+      {
+        "code" : "772810003",
+        "display" : "Influenza caused by Influenza A virus subtype H3N2 (disorder)"
+      },
+      {
+        "code" : "772828001",
+        "display" : "Influenza caused by Influenza A virus subtype H5N1 (disorder)"
+      },
+      {
+        "code" : "840539006",
+        "display" : "Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)"
+      }]
+    }]
+  },
+  "expansion" : {
+    "contains" : [{
+      "system" : "http://snomed.info/sct",
+      "code" : "1857005",
+      "display" : "Gestational rubella syndrome"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "397430003",
+      "display" : "Diphtheria due to Corynebacterium diphtheriae"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14189004",
+      "display" : "Measles"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36989005",
+      "display" : "Mumps"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36653000",
+      "display" : "Rubella"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76902006",
+      "display" : "Tetanus"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "709410003",
+      "display" : "Haemophilus influenzae type b infection"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27836007",
+      "display" : "Pertussis"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "398102009",
+      "display" : "Acute poliomyelitis (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "4834000",
+      "display" : "Typhoid fever (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6142004",
+      "display" : "Influenza (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "6541001",
+      "display" : "Yellow fever (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14168008",
+      "display" : "Rabies (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "18624000",
+      "display" : "Disease caused by Rotavirus (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23502006",
+      "display" : "Lyme disease (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "23511006",
+      "display" : "Meningococcal infectious disease (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "24662006",
+      "display" : "Influenza caused by Influenza B virus (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "25225006",
+      "display" : "Disease caused by Adenovirus (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "32398004",
+      "display" : "Bronchitis (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "37246009",
+      "display" : "Disease caused by rickettsiae (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "38907003",
+      "display" : "Varicella (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "40468003",
+      "display" : "Viral hepatitis, type A (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "50711007",
+      "display" : "Viral hepatitis type C (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "52947006",
+      "display" : "Japanese encephalitis virus disease (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "56717001",
+      "display" : "Tuberculosis (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "58750007",
+      "display" : "Plague (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "63650001",
+      "display" : "Cholera (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "66071002",
+      "display" : "Viral hepatitis type B (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "67924001",
+      "display" : "Smallpox (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "70036007",
+      "display" : "Haemophilus influenzae pneumonia (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "75702008",
+      "display" : "Brucellosis (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "85904008",
+      "display" : "Paratyphoid fever (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "111852003",
+      "display" : "Vaccinia (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "186150001",
+      "display" : "Enteritis caused by rotavirus (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "186772009",
+      "display" : "Rocky Mountain spotted fever (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "186788009",
+      "display" : "Q fever (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "240532009",
+      "display" : "Human papillomavirus infection (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "240613006",
+      "display" : "Typhus group rickettsial disease (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "372244006",
+      "display" : "Malignant melanoma (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "398565003",
+      "display" : "Infection caused by Clostridium botulinum (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "409498004",
+      "display" : "Anthrax (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "417093003",
+      "display" : "Disease caused by West Nile virus (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "442438000",
+      "display" : "Influenza caused by Influenza A virus (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "442696006",
+      "display" : "Influenza caused by Influenza A virus subtype H1N1 (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "450715004",
+      "display" : "Influenza caused by Influenza A virus subtype H7 (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "707448003",
+      "display" : "Influenza caused by Influenza A virus subtype H7N9 (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "712986001",
+      "display" : "Encephalitis caused by tick-borne encephalitis virus (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "713083002",
+      "display" : "Influenza caused by Influenza A virus subtype H5 (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "772810003",
+      "display" : "Influenza caused by Influenza A virus subtype H3N2 (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "772828001",
+      "display" : "Influenza caused by Influenza A virus subtype H5N1 (disorder)"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "840539006",
+      "display" : "Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)"
+    }]
+  }
+}

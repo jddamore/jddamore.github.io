@@ -1,0 +1,76 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-96",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-96",
+  "name" : "IntersectionLOINCCodesAndResultsRadiologyObservationUvIps",
+  "title" : "Intersection of LOINC Codes And Results Radiology Observation - IPS",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:50-05:00",
+  "expansion" : {
+    "contains" : [{
+      "system" : "http://loinc.org",
+      "code" : "100225-2",
+      "display" : "Bone density quantitative ultrasound study"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100349-0",
+      "display" : "US.doppler Penis vessels W vasodilator IV"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100369-8",
+      "display" : "NM Thyroid gland Views W Tl-201 IV"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100655-0",
+      "display" : "XR Sella turcica Lateral"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100760-8",
+      "display" : "XR Radius and Ulna - left Single view"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100852-3",
+      "display" : "NM Bones Views for metastasis W Sr-89 IV"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100853-1",
+      "display" : "NM Pericardial space Pericardial effusion"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100879-6",
+      "display" : "US Guidance for cryoablation of Breast - right"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100880-4",
+      "display" : "US Guidance for cryoablation of Breast - left"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100881-2",
+      "display" : "MR Guidance for cryoablation of Bone"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100882-0",
+      "display" : "MR Peritoneum W contrast percutaneous intraperitoneal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100883-8",
+      "display" : "MR Guidance for biopsy of Kidney - left"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100884-6",
+      "display" : "MR Guidance for biopsy of Kidney - right"
+    }]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-90",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-90",
+  "name" : "IntersectionLOINCCodesAndResultsPathologyObservationUvIps",
+  "title" : "Intersection of LOINC Codes And Results Pathology Observation - IPS",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:50-05:00",
+  "expansion" : {
+    "contains" : [{
+      "system" : "http://loinc.org",
+      "code" : "100019-9",
+      "display" : "ALK gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100020-7",
+      "display" : "GNA11 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100021-5",
+      "display" : "GNAQ gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100022-3",
+      "display" : "IDH1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100023-1",
+      "display" : "IDH2 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100024-9",
+      "display" : "SETBP1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100025-6",
+      "display" : "SRSF2 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100026-4",
+      "display" : "MET gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100027-2",
+      "display" : "SMAD4 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100028-0",
+      "display" : "FBXW7 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100029-8",
+      "display" : "Cancer related multigene analysis in Plasma cell-free DNA by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100213-8",
+      "display" : "Prostate cancer multigene analysis in Blood or Tissue by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100305-2",
+      "display" : "IDH1 gene exon 4 targeted mutation analysis [Presence] in Blood or Marrow by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100306-0",
+      "display" : "IDH2 gene exon 4 targeted mutation analysis [Presence] in Blood or Marrow by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100663-4",
+      "display" : "TPMT gene c.460G>A and c.719A>G [Presence] in Blood by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100664-2",
+      "display" : "NUDT15 gene c.50_55dup and c.415C>T [Presence] in Blood by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100665-9",
+      "display" : "NUDT15 gene c.415C>T [Presence] in Blood by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100666-7",
+      "display" : "NUDT15 gene c.416G>A [Presence] in Blood by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100667-5",
+      "display" : "NUDT15 gene c.52G>A [Presence] in Blood by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100668-3",
+      "display" : "NUDT15 gene c.50_55dup [Presence] in Blood by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100669-1",
+      "display" : "NUDT15 gene c.50_55del [Presence] in Blood by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100670-9",
+      "display" : "RHD gene allele [Identifier] in Plasma cell-free DNA Nominal--fetus"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100694-9",
+      "display" : "SMN1 gene silent carrier analysis [Presence] in Blood or Tissue by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100695-6",
+      "display" : "Genetic disease analysis overall carrier interpretation in Blood or Tissue by Molecular genetics method Narrative"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100696-4",
+      "display" : "CTNS related multigene analysis [Identifier] in Bodyfluid and Serum or Plasma by Molecular genetics method Nominal"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100717-8",
+      "display" : "FCGR3A gene.p.Phe176Val [Presence] in Blood or Tissue by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100754-1",
+      "display" : "Platelet disorders multigene analysis in Blood or Tissue by Sequencing"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100761-6",
+      "display" : "PALB2 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method"
+    },
+    {
+      "system" : "http://loinc.org",
+      "code" : "100762-4",
+      "display" : "HBA2 gene.c.377T>C [Presence] in Blood by Molecular genetics method"
+    }]
+  }
+}

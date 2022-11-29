@@ -1,0 +1,87 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "184e9355-16ee-4701-ad6f-0ef0b2eb4795-42",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/184e9355-16ee-4701-ad6f-0ef0b2eb4795-42",
+  "name" : "IntersectionImmunizationTargetDiseaseCodesAndVaccineTargetDiseasesUvIps",
+  "title" : "Intersection of Immunization Target Disease Codes And Vaccine Target Diseases - IPS",
+  "status" : "draft",
+  "date" : "2022-11-29T15:55:49-05:00",
+  "compose" : {
+    "include" : [{
+      "concept" : [{
+        "code" : "397430003",
+        "display" : "Diphtheria caused by Corynebacterium diphtheriae (disorder)"
+      },
+      {
+        "code" : "14189004",
+        "display" : "Measles (disorder)"
+      },
+      {
+        "code" : "36989005",
+        "display" : "Mumps (disorder)"
+      },
+      {
+        "code" : "36653000",
+        "display" : "Rubella (disorder)"
+      },
+      {
+        "code" : "76902006",
+        "display" : "Tetanus (disorder)"
+      },
+      {
+        "code" : "709410003",
+        "display" : "Haemophilus influenzae type b infection (disorder)"
+      },
+      {
+        "code" : "27836007",
+        "display" : "Pertussis (disorder)"
+      },
+      {
+        "code" : "398102009",
+        "display" : "Acute poliomyelitis (disorder)"
+      }]
+    }]
+  },
+  "expansion" : {
+    "contains" : [{
+      "system" : "http://snomed.info/sct",
+      "code" : "397430003",
+      "display" : "Diphtheria due to Corynebacterium diphtheriae"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "14189004",
+      "display" : "Measles"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36989005",
+      "display" : "Mumps"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "36653000",
+      "display" : "Rubella"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "76902006",
+      "display" : "Tetanus"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "709410003",
+      "display" : "Haemophilus influenzae type b infection"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "27836007",
+      "display" : "Pertussis"
+    },
+    {
+      "system" : "http://snomed.info/sct",
+      "code" : "398102009",
+      "display" : "Acute poliomyelitis (disorder)"
+    }]
+  }
+}
